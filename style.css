@@ -3,7 +3,7 @@
     margin: 0;
 }
 .cabeçalho{
-    background-image: linear-gradient(#000,#524f4f);
+    background-image: linear-gradient(#1c04a0,#000000);
     color: aliceblue;
     display: flex;
     justify-content: space-around;
@@ -24,7 +24,7 @@
     color: rgb(255, 159, 69);
 }
 .pedaço1{
-    background-color: #524f4f;
+    background-image: linear-gradient(#000000,#1c04a0);
 }
 .p1{
     color: aliceblue;
@@ -33,7 +33,30 @@
     width: 35%;
     margin: 10px 5px;
 }
+.div-pedaço2{
+    background-image: linear-gradient(#09021b,#b60000b6);
+}
+.div-pedaço3{
+    background-image: linear-gradient(#b60000b6,#1e0786)
+}
+.div-pedaço4{
+    background-image: linear-gradient(#000,#000);
+}
+.titulo2{
+    justify-content: center;
+    color: rgb(255, 159, 69);
+}
+.p2{
+    color: aliceblue;
+}
+.imaagem{
+    width: 35%;
+}
+
 .icons{
     height: 20px;
-    margin: 0 10px;
+}
+.rodape{
+    background-image: linear-gradient(#ff5e00,#3f3835);
+    text-align: center;
 }
